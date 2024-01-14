@@ -78,7 +78,7 @@ Note: this must be run from a dbt project root directory.
 
 ## Resources
 
-- [Website](https://transform.co/metricflow)
+- [Website](https://docs.getdbt.com/docs/build/about-metricflow)
 - [Documentation](https://docs.getdbt.com/docs/build/build-metrics-intro)
 - [Slack Community](https://www.getdbt.com/community/)
 - [MetricFlow Git Repository](https://github.com/dbt-labs/metricflow)
